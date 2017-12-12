@@ -1,0 +1,108 @@
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\ApplicationInsights.config
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\wissen\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\ApplicationInsights.config
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\ApplicationInsights.config
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.SqlServer.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\EntityFramework.SqlServer.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\elsinn\Desktop\yedek projeler\AdminTemplate (1)\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
